@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\mydocuments\hackerrank\sparsearrays\sparsearrays\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+d:\mydocuments\hackerrank\sparsearrays\sparsearrays\source.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  SparseArrays.vcxproj -> D:\MYDOCUMENTS\HackerRank\SparseArrays\Debug\SparseArrays.exe
+  SparseArrays.vcxproj -> D:\MYDOCUMENTS\HackerRank\SparseArrays\Debug\SparseArrays.pdb (Partial PDB)
